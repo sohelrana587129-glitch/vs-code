@@ -1,0 +1,9 @@
+4001|John Anderson|Flu|45
+4002|Maria Garcia|Fracture|32
+4003|David Chen|Pneumonia|58
+4004|Emily Johnson|Migraine|29
+4005|Robert Wilson|Appendicitis|41
+4006|Linda Martinez|Sprain|35
+4007|Sohel_rana
+|splu
+|22
